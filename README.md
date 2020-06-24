@@ -1,2 +1,2 @@
 # Learn-Front
-Front end wed development
+Front end web development
